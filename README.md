@@ -1,9 +1,9 @@
 # Salary-prediction-flask-app
 
-![before.png](url_to_before_image.jpg)
+![Screenshot before prediction](before.png)
 *Screenshot of the application before prediction.*
 
-![after.png](url_to_after_image.jpg)
+![Screenshot after prediction](after.png)
 *Screenshot of the application after prediction.*
 
 ## Description
