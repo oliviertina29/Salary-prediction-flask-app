@@ -29,7 +29,5 @@ This is a simple web application that predicts salary based on years of experien
 - A modern web browser
 
 ## Author
-[TINA Djara Olivier]
+TINA Djara Olivier
 
-## License
-This project is licensed under the [insert your chosen license].
