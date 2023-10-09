@@ -1,9 +1,9 @@
 # Salary-prediction-flask-app
 
-![Screenshot before prediction](url_to_before_image.jpg)
+![Screenshot before prediction](before.png)
 *Screenshot of the application before prediction.*
 
-![Screenshot after prediction](url_to_after_image.jpg)
+![Screenshot after prediction](after.png)
 *Screenshot of the application after prediction.*
 
 ## Description
@@ -29,7 +29,5 @@ This is a simple web application that predicts salary based on years of experien
 - A modern web browser
 
 ## Author
-[TINA Djara Olivier]
+TINA Djara Olivier
 
-## License
-This project is licensed under the [insert your chosen license].
